@@ -3272,9 +3272,319 @@
     "href": "index.html",
     "title": "Wisconsin Elections, 2000 - 2022",
     "section": "",
-    "text": "Introduction\nThis webbook contains detailed information about elections in Wisconsin over the past 22 years. Chapter 1  Statewide Overview includes an overview of statewide politics before and during this period. Chapter 2  Trends discusses state political trends in more detail. Chapter 3  Polling presents results from the past decade-plus of Marquette Law School Polls. Following this is a section on counties. An introduction to the Counties section includes convenient tables and statistics about all counties in one place. This is followed by individual chapters giving more detail about each county and the communities within it. Chapter 76  Municipalities includes statistics on every municipality in the state, including those which straddle multiple counties.\nThe elections data in this book is primarily based on a unique open source dataset of integrated, official election results as recorded by the Wisconsin Election Commission, the Government Accountability Bureau, or the Wisconsin Elections Board. The data for municipalities reflects the boundaries of those communities as they existed at the time of the election. In this way, our data differs from the topographically integrated data published by the Wisconsin Legislative Technology Services Bureau. We have attempted to visualize municipal boundaries using contemporaneous GIS data wherever practical.\nThis is a project of the Lubar Center for Public Policy Research and Civic Education and the Marquette University Law School. Please direct questions to John Johnson or Charles Franklin.",
+    "text": "Introduction\nThis webbook contains detailed information about elections in Wisconsin over the past 22 years. Chapter 1  Statewide Overview includes an overview of statewide politics before and during this period. Chapter 2  Trends discusses state political trends in more detail. Chapter 3  Public Opinion and the 2024 Elections in Wisconsin presents results from the past decade-plus of Marquette Law School Polls. Following this is a section on counties. An introduction to the Counties section includes convenient tables and statistics about all counties in one place. This is followed by individual chapters giving more detail about each county and the communities within it. Chapter 76  Municipalities includes statistics on every municipality in the state, including those which straddle multiple counties.\nThe elections data in this book is primarily based on a unique open source dataset of integrated, official election results as recorded by the Wisconsin Election Commission, the Government Accountability Bureau, or the Wisconsin Elections Board. The data for municipalities reflects the boundaries of those communities as they existed at the time of the election. In this way, our data differs from the topographically integrated data published by the Wisconsin Legislative Technology Services Bureau. We have attempted to visualize municipal boundaries using contemporaneous GIS data wherever practical.\nThis is a project of the Lubar Center for Public Policy Research and Civic Education and the Marquette University Law School. Please direct questions to John Johnson or Charles Franklin.",
     "crumbs": [
       "Introduction"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html",
+    "href": "polling-overview.html",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "",
+    "text": "4 The 2024 horserace, so far",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#head-to-head-with-undecided",
+    "href": "polling-overview.html#head-to-head-with-undecided",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "4.1 Head-to-head with undecided",
+    "text": "4.1 Head-to-head with undecided\nThe presidential horserace has shifted only modestly since November 2023. Results here are for registered voters. The vote question is asked in two steps, with the first offering “undecided” as an option. This is followed by asking those who are undecided how they would vote if they had to choose. Including undecided is useful for measuring how many voters may be up for grabs, while the second which includes “leaners” may better capture the inclinations of the undecided.\nThe presidential races has fluctuated from slight leads for each candidate to ties. The percent undecided has remained around 10%.\n\n\n\n\n\n\n\n\nFigure 4.1: Biden v Trump with undecided trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#head-to-head-with-leaned-vote",
+    "href": "polling-overview.html#head-to-head-with-leaned-vote",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "4.2 Head-to-head with leaned vote",
+    "text": "4.2 Head-to-head with leaned vote\nThe leaned vote includes initially undecided voters who are then asked how they would vote if they had to choose. Less than 1% continue to say they are undecided.\nThe leaned vote has also remained very close, with each candidate leading in one poll and with two ties.\n\n\n\n\n\n\n\n\nFigure 4.2: Biden v Trump with leaned vote trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#multi-candidate-vote-choice",
+    "href": "polling-overview.html#multi-candidate-vote-choice",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "4.3 Multi-candidate vote choice",
+    "text": "4.3 Multi-candidate vote choice\nThe multi-candidate vote includes options for Robert F. Kennedy, Jr., Libertarian Chase Oliver, Green Party candidate Jill Stein, and independent Cornel West. Oliver was added in the June 2024 survey. Ballot status of Kennedy and West have not yet been determined in Wisconsin.\nTrump has held small leads in each survey asking the multi-candidate vote question. The Kennedy vote has steadily declined since January while the other independent and third-party candidates have fluctuated in low-single digits.\n\n\n\n\n\n\n\n\nFigure 4.3: Multi-candidate vote trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#biden-favorability",
+    "href": "polling-overview.html#biden-favorability",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "5.1 Biden favorability",
+    "text": "5.1 Biden favorability\nThis analysis excludes the period when Biden was Vice-President.\nBiden’s favorability declined in the early primary season of 2019-2020 before rising as he prevailed in primaries and through the 2020 election day.\nOnce in office his favorability has declined and unfavorability has increased. Since June 2023 favorable and unfavorable opinion has further diverged. Except for the summer of 2021, Biden’s unfavorable rating has remined higher than his favorable rating since taking office.\n\n\n\n\n\n\n\n\nFigure 5.1: Biden favorability trend\n\n\n\n\n\n\n5.1.1 Biden net favorability\nBiden’s net favorability has declined since the summer of 2021, held relatively steady in 2022 to summer of 2023 and declined since. Since the summer of 2021 his net favorability has remained negative.\n\n\n\n\n\n\n\n\nFigure 5.2: Biden net favorability trend\n\n\n\n\n\nFavorability by party identification shows Biden retains strong support among Democrats, some 5 percentage points below his peak just before the 2020 election. In recent months there has been a small rise among Democrats. (Throughout this report partisans include independents who say they feel closer to a party. Independents are those who do not feel closer to either party.)\nBiden’s favorability with independents has generally declined since late October 2020, but has gyrated in 2023 and 2024, with decline in the last polls.\nRepublican favorabilty to Biden is quite low, hovering around 10% before the 2020 election are remaining around 5% since late 2022.\n\n\n5.1.2 Biden favorability by party identification\n\n\n\n\n\n\n\n\nFigure 5.3: Biden favorability by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#trump-favorability",
+    "href": "polling-overview.html#trump-favorability",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "5.2 Trump favorability",
+    "text": "5.2 Trump favorability\nTrump’s favorability in Wisconsin was quite low in 2015 through the summer of 2016, rising in the fall to election day. During his presidency favorability rose from the campaign period and fluctuated in a narrow range through the 2020 election. In the period since he left office favorable ratings declined from the level when he was in office, but have increased since June 2023. His unfavorable ratings have always been higher than his favorable ones.\n\n\n\n\n\n\n\n\nFigure 5.4: Trump favorability trend\n\n\n\n\n\n\n5.2.1 Trump net favorability\nTrump’s net favorability has remained negative since he entered the presidential race in 2015, with less negative ratings while in office and lower ratings since taking office. His net rating has become less negative since June 2023.\n\n\n\n\n\n\n\n\nFigure 5.5: Trump net favorability trend\n\n\n\n\n\n\n\n5.2.2 Trump favorability by party identification\nRepublicans in Wisconsin were initially not very favorable to Trump in 2015 to spring of 2016, when he lost the Republican primary to Texas Senator Ted Cruz. However, his favorability rose once he secured the nomination, climbing through the November election. Once in office his ratings with Republicans rose to between 80% and 90% where they remained throughout his term in office.\nRepublican favorability to Trump fell some 15 percentage points once he left office, remaining around 70% until the 2024 primary season when his rating rose to just over 80%.\nFavorability among independents remained quite low through the 2016 campaign, rising to the mid-30% range through most of his administration, then falling after he left office. Since June 2023 favorability among independents has been varied quite a bit though has generally increased since June 2023.\nDemocratic favorability toward Trump has remained below 10% with just 3 exceptions since 2015, and has held around 5% since 2019.\n\n\n\n\n\n\n\n\nFigure 5.6: Trump favorability by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#kennedy-favorability",
+    "href": "polling-overview.html#kennedy-favorability",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "5.3 Kennedy favorability",
+    "text": "5.3 Kennedy favorability\nFavorability to Kennedy has declined in recent surveys. Unlike Biden or Trump a substantial percentage say they don’t know enough about Kennedy to have an opinion, now around 25%. Unfavorable opinion has increased since February 2024 while favorable views have declined.\n\n\n\n\n\n\n\n\nFigure 5.7: Kennedy favorability trend\n\n\n\n\n\n\n5.3.1 Kennedy net favorability\nKennedy’s net favorable rating peaked in the February 2024 survey at slightly positive but it has declined into negative territory since.\n\n\n\n\n\n\n\n\nFigure 5.8: Kennedy net favorability trend\n\n\n\n\n\n\n\n5.3.2 Kennedy favorability by party identification\nRepublicans have been and remain the partisan group most favorable to Kennedy, though this has been declining steadily since November 2023. Independent favorability has similarly declined since January. Democrats have remained the group with the least favorable views of Kennedy, declining a bit since January.\n\n\n\n\n\n\n\n\nFigure 5.9: Kennedy favorability by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#biden-job-approval",
+    "href": "polling-overview.html#biden-job-approval",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "6.1 Biden job approval",
+    "text": "6.1 Biden job approval\nThe question asked is\n\nOverall, do you approve or disapprove of the way Joe Biden is handling his job as president?\n\nIn the summer of 2021 Biden registered his only poll with higher approval than disapproval. Since then disapproval has remained higher than approval. While relatively stable in 2022-2023, his approval has declined since June 2023.\n\n\n\n\n\n\n\n\nFigure 6.1: Biden job approval trend\n\n\n\n\n\n\n6.1.1 Biden job approval by party identification\nDemocrats have maintained approval above 80% throughout Biden’s administration, with very little trend up or down.\nApproval among independents fell after the summer of 2021 and has fluctuated around 30%, with brief dips to below 20%. After rebounding into the 30s in 2023 and January 2024, approval has fallen with independents.\nRepublican approval of Biden has remained below 10% throughout his time in office, typically around 5%.\n\n\n\n\n\n\n\n\nFigure 6.2: Biden job approval by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#trump-job-approval",
+    "href": "polling-overview.html#trump-job-approval",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "6.2 Trump job approval",
+    "text": "6.2 Trump job approval\nThe question asked during his time in office is:\n\nOverall, do you approve or disapprove of the way Donald Trump is handling his job as president?\n\nDisapproval of Trump remained higher than approval throughout his time in office, with one poll in which approval and disapproval were equal, early in the Covid pandemic spring.\nBeginning in April 2024, respondents are asked how much they approve or disapprove of the job Trump did as president while he was in office. As of June 2024, 47% approved and 52% disapproved of Trump’s handling of his job when in office. In the late October 2020 MULawPoll Trump’s approval was 47% and his disapproval was 52%.\n\n\n\n\n\n\n\n\nFigure 6.3: Trump job approval trend\n\n\n\n\n\n\n6.2.1 Trump job approval by party identification\nWhile in office Trump’s approval among Republicans remained between 80% and 90%. Independent approval remained mostly in the 30s, though over 40% at times in 2020. Democratic approval remained below 10% thoughout his term.\n\n\n\n\n\n\n\n\nFigure 6.4: Trump job approval by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#vote-by-party-and-traits",
+    "href": "polling-overview.html#vote-by-party-and-traits",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "7.1 Vote by party and traits",
+    "text": "7.1 Vote by party and traits\nPartisans are extremely likely to see their party’s candidate in a positive light and the opposition candidate in a negative light. To see the effect of the trait on vote choice it is important to look within each party to see how traits affect vote among each partisan group.\n\n7.1.1 Has strong record of accomplishments as president\nHaving a strong record boosts vote intention in each partisan group. Those seeing Biden as having strong accomplishments are less likely to vote for Trump (and more likely to vote for Biden) those those who do not think he has accomplishments. Similarly, those thinking Trump has strong accomplishments are much more likely to vote for him (and not for Biden) within each partisan group.\nThis is very much as common sense would suggest.\n\n\n\n\n\n\n\n\nFigure 7.3: Vote by trait and by party\n\n\n\n\n\n\n\n7.1.2 Is too old to be president\nBiden’s age has been a prominent issue throughout the campaign, exacerbated by his June debate performance.\nIn MULawPoll polling here, all before the debate, it is surprising how little perceptions that Biden is too old to be president affect vote. Those saying he is too old are only slightly more likely to vote for Trump than those who say “too old” does not describe Biden. Independents are only slightly more affected than are partisans.\nIn contrast, perceptions of Trump as too old to be president are more substantial among Republicans and independents, though there is little difference among Democrats.\nWhile 76% of respondents in the June 2024 poll said “too old to be president” describes Biden very or somewhat well, it does not appear to affect their vote very much, regardless of partisan category.\n\n\n\n\n\n\n\n\nFigure 7.4: Vote by trait and by party\n\n\n\n\n\n\n\n7.1.3 Has behaved corruptly\nUnlike age for Biden, perceptions of “has behaved corruptly” affect both Biden and Trump’s vote across partisan categories. Trump’s vote is higher in all partisan categories if Biden is seen to have behaved corruptly, and Trump’s vote is lower among Republicans and independents who say Trump has behaved corruptly. Democrat’s support for Trump remains very low regardless of this perception.\n\n\n\n\n\n\n\n\nFigure 7.5: Vote by trait and by party\n\n\n\n\n\n\n\n7.1.4 Has right temperament to be president\nHaving the right temperament to be president boosts support for each candidate across all partisan groups.\n\n\n\n\n\n\n\n\nFigure 7.6: Vote by trait and by party\n\n\n\n\n\n\n\n7.1.5 Shares your values\nSeeing a candidate as sharing your values boosts voter support for both candidates and across all partisan categories.\n\n\n\n\n\n\n\n\nFigure 7.7: Vote by trait and by party",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#which-candidate-better-on-issues",
+    "href": "polling-overview.html#which-candidate-better-on-issues",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "8.1 Which candidate better on issues",
+    "text": "8.1 Which candidate better on issues\nAcross seven issues Trump is seen as better by a wide margin on three issues, one issue has a slight Trump advantage, and three issues has modest Biden advantages.\nIt is striking that between 15% and 25% say they don’t see a difference between the candidates (either “both about the same” or “neither good”.)\n\n\n\n\n\n\n\n\nFigure 8.1: Which candidate would do a better job on issues",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#who-better-on-issues-trend",
+    "href": "polling-overview.html#who-better-on-issues-trend",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "8.2 Who better on issues trend",
+    "text": "8.2 Who better on issues trend\nThere have been only small trends in perceptions of which candidate would better handle each issue, and no change in candidate orders since November 2023. There has also been little decline in the percentage seeing no difference between the candidates, something we might expect the campaign to affect.\n\n\n\n\n\n\n\n\nFigure 8.2: Which candidate would do a better job on issues trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#most-important-issue-by-party-identification",
+    "href": "polling-overview.html#most-important-issue-by-party-identification",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "9.1 Most important issue by party identification",
+    "text": "9.1 Most important issue by party identification\nPartisans differ sharply over which issue is most important to them. Among Republicans, the economy followed by immigration tower above all other issues, each of which is below 10% for Republicans.\nIn sharp contrast, Wisconsin Democrats rate abortion police as most important, followed by Medicare and Social Security with the economy a close third in importance. Unlike Republicans who rate immigration second highest, less than 5% of Democrats rate immigration most important.\nIndependents rate the economy and immigration as first and second most important, though not as highly as do Republicans. Independents put Medicare and Social Security as their third top issue, though well below immigration. Independents give abortion policy nearly as low a rating as do Republicans.\n\n\n\n\n\n\n\n\nFigure 9.2: Most important issue by party identification",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#senate-head-to-head-with-undecided",
+    "href": "polling-overview.html#senate-head-to-head-with-undecided",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "10.1 Senate Head-to-head with undecided",
+    "text": "10.1 Senate Head-to-head with undecided\nBaldwin holds a moderate lead over Hovde in the Wisconsin U.S. Senate race, with a substantial 17% or 18% undecided in April and June. There has been little change in the race between April and June.\n\n\n\n\n\n\n\n\nFigure 10.1: Baldwin v Hovde with undecided trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#senate-head-to-head-with-leaned-vote",
+    "href": "polling-overview.html#senate-head-to-head-with-leaned-vote",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "10.2 Senate Head-to-head with leaned vote",
+    "text": "10.2 Senate Head-to-head with leaned vote\nThe leaned vote includes initially undecided voters who are then asked how they would vote if they had to choose. Less than 1% continue to say they are undecided.\nThe leaned vote shows a similar advantage for Baldwin as does the unleaned vote, and also shows no shift from April to June.\n\n\n\n\n\n\n\n\nFigure 10.2: Baldwin v Hovde with leaned vote trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#split-ticket-votes-for-president-and-senate-with-undecided",
+    "href": "polling-overview.html#split-ticket-votes-for-president-and-senate-with-undecided",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "10.3 Split-ticket votes for president and senate with undecided",
+    "text": "10.3 Split-ticket votes for president and senate with undecided\nWhile Baldwin holds a 7 point lead in June (using the vote with undecided included), Biden and Trump are tied in the June vote with undecided included.\nThere is a modest amount of split-ticket voting between the presidential and senate races, slightly favoring Baldwin. About twice as many Trump voters are undecided in the senate race than are Biden voters, and almost 40% of undecided presidential voters are also undecided in the senate race.\n\n\n\n\n\n\n\n\n\n\n\nPresident and Senate split-tickets with undecided\n\n\nAmong Wisconsin registered voters\n\n\nPresident vote\nSenate vote\n\n\nBaldwin\nHovde\nHaven't decided\n\n\n\n\nBiden\n87\n3\n10\n\n\nTrump\n7\n73\n20\n\n\nHaven't decided\n31\n29\n39\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: If the 2024 election for president were held today between [President Joe Biden, the Democrat,] and [Former President Donald Trump, the Republican,] would you vote for [Joe Biden] or for [Donald Trump] or haven’t you decided?\n\n\nQuestion: If the 2024 election for U.S. Senate were held today between [Tammy Baldwin, the Democrat,] and [Eric Hovde, the Republican,] would you vote for [Tammy Baldwin], or for [Eric Hovde] or haven’t you decided?\n\n\n\n\n\n\n\n\n\nFigure 10.3: President and Senate split-tickets with undecided",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#split-ticket-votes-for-president-and-senate-with-leaned-vote",
+    "href": "polling-overview.html#split-ticket-votes-for-president-and-senate-with-leaned-vote",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "10.4 Split-ticket votes for president and senate with leaned vote",
+    "text": "10.4 Split-ticket votes for president and senate with leaned vote\nWhen undecided senate voters are asked who they would pick if they had to choose, the undecided groups disappears. A few more, 14%, of Trump voters say they would vote for Baldwin, and 8% of Biden voters would vote for Hovde.\n\n\n\n\n\n\n\n\n\n\n\nPresident and Senate split-tickets with leaned vote\n\n\nAmong Wisconsin registered voters\n\n\nPresident vote\nSenate vote\n\n\nBaldwin\nHovde\n\n\n\n\nBiden\n91\n8\n\n\nTrump\n14\n85\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: If the 2024 election for president were held today between [President Joe Biden, the Democrat,] and [Former President Donald Trump, the Republican,] would you vote for [Joe Biden] or for [Donald Trump] or haven’t you decided?\n\n\nQuestion: If you had to choose, would you vote for [Biden] or for [Trump]?\n\n\nQuestion: If the 2024 election for U.S. Senate were held today between [Tammy Baldwin, the Democrat,] and [Eric Hovde, the Republican,] would you vote for [Tammy Baldwin], or for [Eric Hovde] or haven’t you decided?\n\n\nQuestion: If you had to choose, would you vote for [Baldwin], or for [Hovde]?\n\n\n\n\n\n\n\n\n\nFigure 10.4: President and Senate split-tickets with leaned vote",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#baldwin-favorability",
+    "href": "polling-overview.html#baldwin-favorability",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "11.1 Baldwin favorability",
+    "text": "11.1 Baldwin favorability\nBaldwin has the longest favorability record in the Marquette Law School poll, having been included in almost every poll since 2012. This provides a career long overview.\nIn 2012, during the runup to the fall election, Baldwin’s initially high “haven’t heard enough” percentage fell steadily to election day, with favorable and unfavorable rising roughly in parallel through the fall election.In most of these polls her favorable rating was slightly below her unfavorable rating.\nSince taking office in 2013, Baldwin’s favorable ratings have generally been a little above her unfavorable ones. During her 2018 reelection campaign favorable ratings rose slightly and unfavorable fell, making her more favorable than unfavorable during the fall 2018 campaign.\nSince 2019 Baldwin has been a little more favorable than unfavorable, with a few dips to more unfavorable views.\nThere is also a noticeable election cycle dynamic to the percentage saying they “haven’t heard enough” to have an opinion. This percentage falls in election years of 2012, 2018 and 2024, but rises between senate elections.\n\n\n\n\n\n\n\n\nFigure 11.1: Baldwin favorability trend\n\n\n\n\n\n\n11.1.1 Baldwin net favorability trend\nThe chart of net favorability makes clear Biden’s generally net positive rating of less than 10 percentage points, though ocassional dips into negative territory.\n\n\n\n\n\n\n\n\nFigure 11.2: Baldwin net favorability trend\n\n\n\n\n\n\n\n11.1.2 Baldwin favorability by party identification\nDemocrats are quite favorable to Baldwin, and that support has increased in her second term in the senate compared to the first term.\nIndependents are less favorable (though also more likely to say they don’t know enough to have an opinion.) Independent favorability is also generally higher in her second term, though more variable.\nRepublican favorability to Baldwin has held rather steady at about 10%.\n\n\n\n\n\n\n\n\nFigure 11.3: Baldwin favorability by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#hovde-favorability",
+    "href": "polling-overview.html#hovde-favorability",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "11.2 Hovde favorability",
+    "text": "11.2 Hovde favorability\nHovde has an unusual favorability history because we have measures of him during his primary campaign for the Republican senate nomination in 2012, a race he narrowly lost. We then pick him up again in June 2023 when he became widely mentioned as a possible 2024 candidate.\nLike all new candidates, in 2012 Hovde had a high “haven’t heard enough” rating, not unlike Baldwin at the same time. Like Baldwin, Hovde became better known through the primary campaign, though almost 50% still said they hadn’t heard enough about him by the time of the primary.\nDuring the 2012 primary campaign, Hovde’s favorable and unfavorable ratings both increased, becoming more favorable than unfavorable until the last pre-primary poll.\nIn the 2024 cycle Hovde is again introducing himself to voters, with those saying “haven’t heard enough” falling from just over 80% in June 2023 to 44% in June 2023.\nIn the last year, Hovde’s favorable and unfavorable ratings have both increased, with unfavorable rising more than favorable, as of June 2024.\n\n\n\n\n\n\n\n\nFigure 11.4: Hovde favorability trend\n\n\n\n\n\n\n11.2.1 Hovde net favorable rating\nHovde’s net favorability trend clarifies the balance of favorable and unfavorable opinion, but omits the important element of how those without an opinion are changing. That percentage will decline through the campaign.\n\n\n\n\n\n\n\n\nFigure 11.5: Hovde net favorability trend\n\n\n\n\n\n\n\n11.2.2 Hovde favorability by party identification\nHovde’s favorability with Republican voters rose substantially in the 2012 primary campaign, and has risen more dramatically in 2023-24.\nFavorability among independents has only slightly increased (with many saying they don’t know enough). Democratic favorability has remained very low.\n\n\n\n\n\n\n\n\nFigure 11.6: Hovde favorability by party ID trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#vote-among-double-haters",
+    "href": "polling-overview.html#vote-among-double-haters",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "13.1 Vote among double haters",
+    "text": "13.1 Vote among double haters\nDouble haters are far more likely to say they are undecided than are those who like one candidate and not the other. Since November 2023, the double haters have continued to say they are undecided at a 36%-44% rate, while those who express a preference lean slightly to Biden. In contrast to double haters, those who like one candidate and not the other vote for the favored candidate over 95% of the time.\n\n\n\n\n\n\n\n\nFigure 13.1: Vote of double haters, with undecided\n\n\n\n\n\nWhen third party candidates are included, the double haters are quite likely to support one of these alternatives. Kennedy support is especially strong among double haters, but has been declining since January. Biden and Trump remain close, with Trump pulling slightly ahead in June.\n\n\n\n\n\n\n\n\nFigure 13.2: Vote of double haters with third party candidates",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#biden-and-trump-double-haters",
+    "href": "polling-overview.html#biden-and-trump-double-haters",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "13.2 Biden and Trump double haters",
+    "text": "13.2 Biden and Trump double haters\nThe full trend of Biden and Trump favorability with double haters is shown in the figure below. In 2019 and 2020 double haters made up around 10% of Wisconsin registered voters, peaking at 15% in February 2020 and declining to 5% in October 2020.\nIn the current election cycle since November 2023, double haters have made up 17% or 18% of registered voters, and has generally been in the mid-teens in 2022 and 2023. That puts the share of double haters well above the 2020 level at this time, and below the level of 2016 opinion as of June, though not much below the end of the 2016 campaign in late October.\n\n\n\n\n\n\n\n\nFigure 13.3: Biden and Trump double haters trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#clinton-and-trump-double-haters",
+    "href": "polling-overview.html#clinton-and-trump-double-haters",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "13.3 Clinton and Trump double haters",
+    "text": "13.3 Clinton and Trump double haters\nThere were more double haters in 2016 than in 2020 or 2024. Through the early part of the 2016 campaign double haters made up 25%-34% of registered voters. In the last five months of the campaign this declined to 20% at the end of October. This very high level of double haters stands in sharp contrast with the 2012 campaign.\n\n\n\n\n\n\n\n\nFigure 13.4: Clinton and Trump double haters trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#obama-and-romney-double-haters",
+    "href": "polling-overview.html#obama-and-romney-double-haters",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "13.4 Obama and Romney double haters",
+    "text": "13.4 Obama and Romney double haters\nThe 2012 campaign produced very few double haters. Early in 2012 as many as 15% disliked both candidates but this steadily declined to just 5% in late October and under 10% throughout the post-primary period.\n\n\n\n\n\n\n\n\nFigure 13.5: Obama and Romney double haters trend",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#vote-of-double-haters",
+    "href": "polling-overview.html#vote-of-double-haters",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "14.1 Vote of double haters",
+    "text": "14.1 Vote of double haters\n\n\n\n\nTable 14.1: Vote of double haters, with undecided\n\n\n\n\n\n\n\n\n\n\nVote of double haters, with undecided\n\n\nAmong Wisconsin registered voters with an unfavorable view of both Biden and Trump\n\n\nPoll dates\nVote\n\n\nBiden\nTrump\nHaven't decided\nn\n\n\n\n\n6/12-20/24\n30\n26\n44\n148\n\n\n4/3-10/24\n34\n30\n36\n138\n\n\n1/24-31/24\n31\n25\n43\n167\n\n\n10/26-11/2/23\n30\n32\n38\n164\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: Do you have a favorable or unfavorable opinion of (name) or haven’t you heard enough about (him/her) yet?\n\n\nQuestion: If the 2024 election for president were held today between [President Joe Biden, the Democrat,] and [Former President Donald Trump, the Republican,] would you vote for [Joe Biden] or for [Donald Trump] or haven’t you decided?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#vote-of-double-haters-with-third-party-candidates",
+    "href": "polling-overview.html#vote-of-double-haters-with-third-party-candidates",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "14.2 Vote of double haters with third party candidates",
+    "text": "14.2 Vote of double haters with third party candidates\n\n\n\n\nTable 14.2: Vote of double haters with third party candidates\n\n\n\n\n\n\n\n\n\n\nVote of double haters with third party candidates\n\n\nAmong Wisconsin registered voters with an unfavorable view of both Biden and Trump\n\n\nPoll dates\nVote\n\n\nBiden\nTrump\nKennedy\nOliver\nStein\nWest\nn\n\n\n\n\n6/12-20/24\n23\n25\n23\n6\n9\n14\n148\n\n\n4/3-10/24\n23\n20\n38\nNA\n13\n4\n138\n\n\n1/24-31/24\n19\n15\n40\nNA\n15\n8\n167\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: Do you have a favorable or unfavorable opinion of (name) or haven’t you heard enough about (him/her) yet?\n\n\nQuestion: If the presidential ballot included additional candidates, would you vote for [Democrat Joe Biden], [Republican Donald Trump], [independent Robert F. Kennedy Jr], [Libertarian Chase Oliver], [the Green Party’s Jill Stein], or [independent Cornel West]?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#biden-and-trump-double-haters-1",
+    "href": "polling-overview.html#biden-and-trump-double-haters-1",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "14.3 Biden and Trump double haters",
+    "text": "14.3 Biden and Trump double haters\n\n\n\n\nTable 14.3: Biden and Trump double haters\n\n\n\n\n\n\n\n\n\n\nBiden and Trump double haters trend\n\n\nAmong Wisconsin registered voters\n\n\nPoll dates\nFavorability\n\n\nJB fav, DT fav\nJB fav, DT unfav\nJB unfav, DT fav\nJB unfav, DT unfav\nDK/NA\nn\n\n\n\n\n6/12-20/24\n0\n39\n41\n17\n3\n871\n\n\n4/3-10/24\n2\n38\n41\n17\n2\n814\n\n\n1/24-31/24\n2\n40\n38\n18\n2\n930\n\n\n10/26-11/2/23\n1\n41\n36\n18\n4\n908\n\n\n6/8-13/23\n1\n44\n32\n20\n3\n913\n\n\n10/24-11/1/22\n1\n41\n37\n11\n10\n802\n\n\n10/3-9/22\n3\n38\n33\n15\n11\n801\n\n\n9/6-11/22\n1\n40\n36\n15\n8\n801\n\n\n8/10-15/22\n1\n38\n35\n17\n8\n811\n\n\n6/14-20/22\n2\n40\n37\n14\n7\n803\n\n\n4/19-24/22\n1\n44\n35\n12\n8\n805\n\n\n2/22-27/22\n2\n39\n34\n15\n10\n802\n\n\n10/26-31/21\n2\n41\n36\n13\n8\n805\n\n\n8/3-8/21\n3\n44\n34\n8\n11\n807\n\n\n10/21-25/20\n2\n46\n40\n5\n6\n806\n\n\n9/30-10/4/20\n2\n45\n38\n5\n9\n805\n\n\n8/30-9/3/20\n2\n42\n38\n9\n9\n802\n\n\n8/4-9/20\n3\n40\n38\n9\n11\n801\n\n\n6/14-18/20\n3\n40\n36\n8\n12\n805\n\n\n5/3-7/20\n4\n37\n37\n9\n14\n811\n\n\n3/24-29/20\n3\n35\n37\n11\n13\n813\n\n\n2/19-23/20\n3\n30\n38\n15\n15\n1,000\n\n\n1/8-12/20\n8\n32\n33\n13\n15\n800\n\n\n12/3-8/19\n4\n34\n37\n7\n18\n800\n\n\n11/13-17/19\n6\n32\n36\n10\n15\n801\n\n\n10/13-17/19\n6\n34\n33\n10\n17\n799\n\n\n8/25-29/19\n6\n37\n33\n11\n13\n800\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: Do you have a favorable or unfavorable opinion of (name) or haven’t you heard enough about (him/her) yet?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#clinton-and-trump-double-haters-1",
+    "href": "polling-overview.html#clinton-and-trump-double-haters-1",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "14.4 Clinton and Trump double haters",
+    "text": "14.4 Clinton and Trump double haters\n\n\n\n\nTable 14.4: Clinton and Trump double haters\n\n\n\n\n\n\n\n\n\n\nClinton and Trump double haters trend\n\n\nAmong Wisconsin registered voters\n\n\nPoll dates\nFavorability\n\n\nHC fav, DT fav\nHC fav, DT unfav\nHC unfav, DT fav\nHC unfav, DT unfav\nDK/NA\nn\n\n\n\n\n10/26-31/16\n1\n39\n31\n20\n8\n1,401\n\n\n10/6-9/16\n1\n38\n30\n21\n10\n1,000\n\n\n9/15-18/16\n2\n40\n29\n16\n12\n802\n\n\n8/25-28/16\n1\n32\n27\n25\n15\n803\n\n\n8/4-7/16\n1\n40\n26\n21\n11\n805\n\n\n7/7-10/16\n1\n34\n27\n25\n13\n801\n\n\n6/9-12/16\n1\n34\n24\n26\n14\n800\n\n\n3/24-28/16\n3\n31\n18\n34\n13\n1,405\n\n\n2/18-21/16\n3\n32\n21\n29\n16\n802\n\n\n1/21-24/16\n4\n31\n23\n24\n17\n806\n\n\n11/12-15/15\n5\n34\n18\n27\n16\n803\n\n\n9/24-28/15\n8\n31\n17\n28\n16\n803\n\n\n8/13-16/15\n6\n28\n17\n28\n21\n802\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: Do you have a favorable or unfavorable opinion of (name) or haven’t you heard enough about (him/her) yet?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#obama-and-romney-double-haters-1",
+    "href": "polling-overview.html#obama-and-romney-double-haters-1",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "14.5 Obama and Romney double haters",
+    "text": "14.5 Obama and Romney double haters\n\n\n\n\nTable 14.5: Obama and Romney double haters\n\n\n\n\n\n\n\n\n\n\nObama and Romney double haters trend\n\n\nAmong Wisconsin registered voters\n\n\nPoll dates\nFavorability\n\n\nBO fav, MR fav\nBO fav, MR unfav\nBO unfav, MR fav\nBO unfav, MR unfav\nDK/NA\nn\n\n\n\n\n10/25-28/12\n5\n46\n38\n4\n7\n1,404\n\n\n10/11-14/12\n5\n44\n37\n3\n11\n1,007\n\n\n9/27-30/12\n3\n48\n33\n4\n12\n1,003\n\n\n9/13-16/12\n4\n45\n31\n5\n15\n705\n\n\n8/16-19/12\n5\n38\n30\n6\n22\n706\n\n\n8/2-5/12\n5\n42\n31\n5\n17\n1,400\n\n\n7/5-8/12\n5\n38\n29\n4\n24\n1,000\n\n\n6/13-16/12\n6\n36\n28\n4\n25\n707\n\n\n5/23-26/12\n7\n41\n32\n5\n15\n720\n\n\n5/9-12/12\n6\n36\n33\n7\n18\n704\n\n\n4/26-29/12\n5\n39\n28\n7\n22\n705\n\n\n3/22-25/12\n8\n35\n23\n11\n22\n707\n\n\n2/16-19/12\n8\n34\n19\n15\n25\n716\n\n\n1/19-22/12\n8\n27\n21\n14\n30\n701\n\n\n\nMarquette Law School Poll, Wisconsin surveys\n\n\nQuestion: Do you have a favorable or unfavorable opinion of (name) or haven’t you heard enough about (him/her) yet?",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#trend-in-enthusiasm-to-vote",
+    "href": "polling-overview.html#trend-in-enthusiasm-to-vote",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "15.1 Trend in enthusiasm to vote",
+    "text": "15.1 Trend in enthusiasm to vote\nIn 2024 the level of enthusiasm has remained well below enthusiasm at the same point during the 2020 campaign, varying from 13 percentage points less “very enthusiastic” in June 2024 compared to June 2020, to as much as 20 points less in January and April compare to the same months in 2020.\n\n\n\n\n\n\n\n\nFigure 15.1: Enthusiasm by survey",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#vote-by-enthusiasm",
+    "href": "polling-overview.html#vote-by-enthusiasm",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "15.2 Vote by enthusiasm",
+    "text": "15.2 Vote by enthusiasm\nRegistered voters who are “very enthusiastic” about voting are much more likely to support Trump than Biden. In contrast those less enthusiastic, whether “somewhat”, “not too” or “not at all” enthusiastic are much more likely to support Biden than Trump.\n\n\n\n\n\n\n\n\nFigure 15.2: Biden vs Trump by enthusiasm",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
+    ]
+  },
+  {
+    "objectID": "polling-overview.html#certain-to-vote-by-enthusiasm",
+    "href": "polling-overview.html#certain-to-vote-by-enthusiasm",
+    "title": "3  Public Opinion and the 2024 Elections in Wisconsin",
+    "section": "15.3 Certain to vote by enthusiasm",
+    "text": "15.3 Certain to vote by enthusiasm\nEnthusiasm is related to certainty of voting in November, with those most enthusiastic more likely to say they are absolutely certain to vote, while certainty of voting falls with lower enthusiasm.\nBoth enthusiasm and certainty of voting are dynamic psychological variables and can change over the course of an election, rather than fixed attributes of people. How this dynamic plays out over the fall campaign can affect races from the top to the bottom of the ballot.\n\n\n\n\n\n\n\n\nFigure 15.3: Certain to vote by enthusiasm",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Public Opinion and the 2024 Elections in Wisconsin</span>"
     ]
   }
 ]
