@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Wisconsin Elections, 2000 - 2026",
+    "title": "Wisconsin Elections, 2000 - 2024",
     "section": "",
     "text": "Introduction\nThis webbook contains detailed information about elections in Wisconsin over the past 24 years. Chapter 1  Statewide Overview includes an overview of statewide politics before and during this period. An introduction to the Counties section includes convenient tables and statistics about all counties in one place. This is followed by individual chapters giving more detail about each county and the communities within it. Chapter 74  Municipalities includes statistics on every municipality in the state, including those which straddle multiple counties.\nThe elections data in this book is primarily based on a unique open source dataset of integrated, official election results as recorded by the Wisconsin Election Commission, the Government Accountability Bureau, or the Wisconsin Elections Board. The data for municipalities reflects the boundaries of those communities as they existed at the time of the election. In this way, our data differs from the topographically integrated data published by the Wisconsin Legislative Technology Services Bureau. We have attempted to visualize municipal boundaries using contemporaneous GIS data wherever practical.\nThis is a project of the Lubar Center for Public Policy Research and Civic Education and the Marquette University Law School. Please direct questions to John Johnson or Charles Franklin.",
     "crumbs": [
